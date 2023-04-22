@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "dcb83d074a8ef5ae",
+        "id": "d4bf8536d0e4a07b",
         "type": "tabs",
         "children": [
           {
-            "id": "92585a05a984df7e",
+            "id": "1627752a348d1115",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "python/django.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "python/django.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "python/django.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "python/django.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,10 +138,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "92585a05a984df7e",
+  "active": "12d1b8b6025e2dc7",
   "lastOpenFiles": [
-    "Pasted image 20230422202657.png",
+    "2023-04-22.md",
     "python/django.md",
+    "Pasted image 20230422202657.png",
     "python"
   ]
 }
