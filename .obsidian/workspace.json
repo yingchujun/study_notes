@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 231.5
   },
   "right": {
     "id": "ce0036fc6c6f7909",
@@ -146,7 +146,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "bbb7c9c45137d304",
+  "active": "1627752a348d1115",
   "lastOpenFiles": [
     "README.md",
     "Pasted image 20230422202657.png",
