@@ -26,5 +26,5 @@
   "submoduleRecurseCheckout": false,
   "gitDir": "",
   "showFileMenu": true,
-  "autoCommitMessage": "{{localhost}}: {{date}}"
+  "autoCommitMessage": "笔记保存: {{date}}"
 }
