@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d4bf8536d0e4a07b",
+        "id": "b3bd75996195ed5b",
         "type": "tabs",
         "children": [
           {
-            "id": "1627752a348d1115",
+            "id": "7faf82351005f7aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231.5,
-    "collapsed": true
+    "width": 231.5
   },
   "right": {
     "id": "ce0036fc6c6f7909",
@@ -130,7 +129,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -147,11 +147,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "1627752a348d1115",
+  "active": "7faf82351005f7aa",
   "lastOpenFiles": [
     "README.md",
-    "Pasted image 20230422202657.png",
     "python/django.md",
+    "().md",
+    "Pasted image 20230422202657.png",
     "2023-04-22.md",
     "python"
   ]
