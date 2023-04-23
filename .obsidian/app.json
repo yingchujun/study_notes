@@ -1,3 +1,20 @@
 {
-  "promptDelete": false
+  "promptDelete": false,
+  "attachmentFolderPath": "./note_img",
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": true,
+  "showLineNumber": false,
+  "foldHeading": true,
+  "rightToLeft": false,
+  "showIndentGuide": true,
+  "defaultViewMode": "source",
+  "showInlineTitle": true,
+  "showFrontmatter": false,
+  "livePreview": true,
+  "foldIndent": true,
+  "readableLineLength": true,
+  "useTab": true,
+  "smartIndentList": false,
+  "tabSize": 4,
+  "strictLineBreaks": true
 }

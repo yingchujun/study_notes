@@ -1,5 +1,9 @@
 [
-  "obsidian-git",
-  "obsidian-image-auto-upload-plugin",
-  "mousewheel-image-zoom"
+  "mousewheel-image-zoom",
+  "obsidian-auto-pair-chinese-symbol",
+  "better-word-count",
+  "url-into-selection",
+  "oz-clear-unused-images",
+  "table-extended",
+  "obsidian-git"
 ]
