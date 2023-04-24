@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c22750514427c16b",
+            "id": "109fd2acca1c0774",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python/django.md",
+                "file": "python/爬虫示例框架.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "python/django.md",
+                "file": "python/爬虫示例框架.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "python/django.md",
+                "file": "python/爬虫示例框架.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "python/django.md"
+                "file": "python/爬虫示例框架.md"
               }
             }
           }
@@ -147,10 +147,11 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "c22750514427c16b",
+  "active": "12d1b8b6025e2dc7",
   "lastOpenFiles": [
-    "python/note_img/Pasted image 20230423193803.png",
     "python/django.md",
+    "python/爬虫示例框架.md",
+    "python/note_img/Pasted image 20230423193803.png",
     "python/note_img/Pasted image 20230423193539.png",
     "python/note_img/Pasted image 20230423163542.png",
     "README.md",
