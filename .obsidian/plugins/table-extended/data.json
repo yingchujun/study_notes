@@ -1,4 +1,4 @@
 {
-  "handleNativeTable": false,
+  "handleNativeTable": true,
   "hackPDF": true
 }

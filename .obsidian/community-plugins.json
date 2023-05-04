@@ -6,5 +6,7 @@
   "oz-clear-unused-images",
   "table-extended",
   "obsidian-git",
-  "cm-editor-syntax-highlight-obsidian"
+  "cm-editor-syntax-highlight-obsidian",
+  "markdown-table-editor",
+  "obsidian-hover-editor"
 ]
